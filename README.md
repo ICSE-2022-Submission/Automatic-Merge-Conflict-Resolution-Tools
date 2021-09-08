@@ -45,4 +45,21 @@ All survey data can be found in the /Survey Data/ folder:
 
 https://github.com/ICSE-2022-Submission/Automatic-Merge-Conflict-Resolution-Tools/tree/main/Survey%20Data
 
-The folder contains two JSON files containing the survey responses and conflicts shown to participants in the survey interface. The folder also contains the data schema for the conflcits and responses. 
+The folder contains two JSON files containing the survey responses and conflicts shown to participants in the survey interface. The folder also contains the data schema for the conflicts and responses. 
+
+
+#### Survey Questions
+Participants completed survey questions on their own, during guided interviews. Survey question responses are recorded and shared in /Survey Data/responses.json For each conflict in a file, participants evaluate automatically generated conflict resolution suggestions. Participants either select a resolution as acceptable, indicate that none of the suggestions are acceptable, or elect to skip the conflcit entirely. 
+
+Depending on the scenario, the participants respond to the follow questions.
+
+|                                          | Survey Questions                                                                                                                                                                              |   |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| Suggestion is acceptable                 | 1) Is this suggestion semantically equivalent to the user resolution? 2) Did the order of appearance of different statements play a factor in why you chose this suggestion? 3) Open Response |   |
+| Suggestions are not acceptable           | 1) Is any external context needed in order to correctly resolve this conflict? 2) Open response                                                                                               |   |
+| If additional code is added              | Is the added code necessary in order to correctly resolve the merge conflict?                                                                                                              |   |
+| If conflict is resolved by taking A or B | Why are the changes from the other branch not used to resolve the conflict?                                                                                                                |   |
+| Skip this conflict                       | Multi-select option to explain why and open response                                                                                                                                          |   |
+
+
+
