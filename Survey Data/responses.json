@@ -1,1 +1,1769 @@
-[{"_id":{"$oid":"6076ca778ed4bd00368d5397"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d58ddd40b162ab311ecb"},{"_id":{"$oid":"6076cbb28ed4bd00368d5398"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 3":{"feedback":"A mix of current and incoming. It could be even more optimal if the merger had knowledge on TypeScript import syntax and only keeps the import of the new type.","id":3},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d58ddd40b162ab311ecc"},{"_id":{"$oid":"6076cc738ed4bd00368d5399"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"Looks like both me and Alex added the same functionality and his version is shorter. So I accept his.","id":2},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d5d0dd40b162ab311edf"},{"_id":{"$oid":"6076ccda8ed4bd00368d539a"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"The conflicting changes are for two separate features and both needs to be kept. Merging doesn't make sense.","id":2},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d5d0dd40b162ab311ee0"},{"_id":{"$oid":"6076cd7d8ed4bd00368d539b"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["I need help from a colleague"],"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d5d0dd40b162ab311ee1"},{"_id":{"$oid":"6076cdfb8ed4bd00368d539c"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d5e3dd40b162ab311ee2"},{"_id":{"$oid":"6076cf1c8ed4bd00368d539d"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["Conflict is too complex"],"feedback":"anonymized for review"}},"2":{"skipConflictResponse":{"reasons":["Conflict is too complex"],"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d63add40b162ab311ee8"},{"_id":{"$oid":"60781a4a336c530037eff70f"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","external_context":"No","ordering":"No"}}},"userId":"anonymized","taskId":"6075d5d0dd40b162ab311edf"},{"_id":{"$oid":"60781ad2336c530037eff710"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6075d5d0dd40b162ab311edf"},{"_id":{"$oid":"60781c32336c530037eff711"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"6075d63add40b162ab311ee7"},{"_id":{"$oid":"6078940cfef1210036166172"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"There are extra whitespaces but the suggestion looks good.","ordering":"No","semantically_equivalent":"Yes","id":2},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d57fdd40b162ab311ec8"},{"_id":{"$oid":"6078ac13fef1210036166173"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"60783df72eec3847c6f2e370"},{"_id":{"$oid":"6078af1cfef1210036166174"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}},"2":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"607456a26bfb1906a22460f9"},{"_id":{"$oid":"60793cbefef1210036166175"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"Additional whitespace is present.\nStatement ordering will always play a factor, first suggestion should always be the best match.","semantically_equivalent":"Yes","ordering":"Yes","id":1},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 3":{"feedback":"Same","semantically_equivalent":"Yes","ordering":"Yes","id":3},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d5badd40b162ab311edc"},{"_id":{"$oid":"60793d9efef1210036166176"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"This solution seems the cleanest, even though I am not the author of the above code.","semantically_equivalent":"Yes","ordering":"Yes","id":1},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"Again extra whitespace","semantically_equivalent":"Yes","ordering":"Yes","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d68bdd40b162ab311ef7"},{"_id":{"$oid":"60793d9efef1210036166177"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"This solution seems the cleanest, even though I am not the author of the above code.","semantically_equivalent":"Yes","ordering":"Yes","id":1},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"Again extra whitespace","semantically_equivalent":"Yes","ordering":"Yes","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d68bdd40b162ab311ef7"},{"_id":{"$oid":"60794128fef1210036166178"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"Again there is extra whitespace lines.","semantically_equivalent":"Yes","ordering":"Yes","id":1},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 3":{"feedback":"This one just looked best to me, comment is no longer relevent it seems.","semantically_equivalent":"Yes","ordering":"Yes","id":3},"feedback":"anonymized for review"}},"3":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"I did not always check if the suggestion is semantically equivalent to the user resolution. I always picked what looked best to me.\n\nI hope this was helpful.","semantically_equivalent":"Yes","ordering":"Yes","id":2},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d663dd40b162ab311eef"},{"_id":{"$oid":"6079be96fef1210036166179"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6073c9b1acb36e8a913c4a6f"},{"_id":{"$oid":"6079bf7bfef121003616617a"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"6073cce6acb36e8a913c4a92"},{"_id":{"$oid":"6079c0f0fef121003616617b"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"6073cd63acb36e8a913c4a9d"},{"_id":{"$oid":"6079d3b9b29cf40037798fc4"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"6073cd63acb36e8a913c4a9b"},{"_id":{"$oid":"6079d478b29cf40037798fc5"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["Other"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6073cd63acb36e8a913c4a9d"},{"_id":{"$oid":"6079d541b29cf40037798fc6"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"This is semantically correct but changes the ordering, so I prefer suggestion 2.","semantically_equivalent":"Yes","ordering":"No","id":1},"Suggestion 2":{"feedback":"This preserves the original ordering, so I prefer it over suggestion 1, although both are semantically correct.","semantically_equivalent":"Yes","ordering":"Yes","id":2},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6079c6816e46eb5b1b2b47d5"},{"_id":{"$oid":"607a04f9a1509a00366a74d9"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"The ordering of statement is correct though the resolution has additional blank lines which can be avoided.","semantically_equivalent":"Yes","ordering":"Yes","id":1},"Suggestion 2":{"feedback":"Resolution is proper from merge perspective, it could have the ordering of blocks in inverted order.","semantically_equivalent":"Yes","ordering":"Yes","id":2},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6073e6b7550e7802a7ec86ea"},{"_id":{"$oid":"607a05a5a1509a00366a74da"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"This is accurate","semantically_equivalent":"Yes","ordering":"No","id":1},"Suggestion 2":{"feedback":"One empty line at the start of the block merging.","semantically_equivalent":"Yes","ordering":"No","id":2},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6073e708550e7802a7ec86f4"},{"_id":{"$oid":"607a0677a1509a00366a74db"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","external_context":"Yes","ordering":"No"}}},"userId":"anonymized","taskId":"6073e6f4550e7802a7ec86f0"},{"_id":{"$oid":"607dc784871f960036c43f92"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"Typical merge conflict when adding a field in a typescript type definition.","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"607d72b293f2910b85d82aae"},{"_id":{"$oid":"607dc823871f960036c43f93"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"607d72c093f2910b85d82ab0"},{"_id":{"$oid":"607dc90b871f960036c43f94"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"This is a change that would probably require to talk to the person who made to understand why we are now switching from module to namespace.","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"607d72c093f2910b85d82ab2"},{"_id":{"$oid":"607dc9a9871f960036c43f95"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["Conflict is too complex"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"607d72cc93f2910b85d82ab3"},{"_id":{"$oid":"607dcac1871f960036c43f96"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"Looks like the only difference are the 2 empty lines.","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"Looks like 2 empty lines were added.","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"607d787d4941c107daa40871"},{"_id":{"$oid":"607dce3b871f960036c43f97"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"607d72c093f2910b85d82ab1"},{"_id":{"$oid":"607dce76871f960036c43f98"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"was ok","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"607d72c093f2910b85d82ab2"},{"_id":{"$oid":"607dcf17871f960036c43f99"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"607d72cc93f2910b85d82ab3"},{"_id":{"$oid":"607dd00f871f960036c43f9a"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"whitespace difference","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"just ordering","semantically_equivalent":"Yes","ordering":"Yes","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"607d787d4941c107daa40871"},{"_id":{"$oid":"607ddc6c871f960036c43f9b"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"This is semantically correct, even though the extra code is not needed in the final version.","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6073e6e4550e7802a7ec86ee"},{"_id":{"$oid":"607ddce2871f960036c43f9c"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6073e6e4550e7802a7ec86ef"},{"_id":{"$oid":"607dddb9871f960036c43f9d"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"60744d206bfb1906a22460d6"},{"_id":{"$oid":"607ddf87871f960036c43f9e"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"Code looks correct, just formatting differences.","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"The code looks equivalent, just formatting differences.","semantically_equivalent":"Yes","ordering":"No","id":2},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"60744d206bfb1906a22460d8"},{"_id":{"$oid":"607f51e1b68ec24a6e4193aa"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"changes rolled back, no need for import","semantically_equivalent":"Yes","ordering":"No","id":2},"feedback":"anonymized for review"}},"2":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}},"3":{"skipConflictResponse":{"reasons":["Other"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}},"4":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"roll back changes","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6073e386550e7802a7ec86dd"},{"_id":{"$oid":"607f5269b68ec24a6e4193ab"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"same as user res","semantically_equivalent":"Yes","ordering":"No","id":2},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 3":{"feedback":"same as res","semantically_equivalent":"Yes","ordering":"No","id":3},"feedback":"anonymized for review"}},"3":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"6073e386550e7802a7ec86df"},{"_id":{"$oid":"607f52afb68ec24a6e4193ac"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"same as user res","semantically_equivalent":"Yes","ordering":"No","id":2},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"conflict is just a formatting change","semantically_equivalent":"Yes","ordering":"No","id":2},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6073e41b550e7802a7ec86e2"},{"_id":{"$oid":"607f5664b68ec24a6e4193ad"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"607d72b293f2910b85d82aad"},{"_id":{"$oid":"607f5832b68ec24a6e4193ae"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"this is correct, but user resolution contains an added line to address another change","semantically_equivalent":"No","ordering":"No","id":1},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"correct","semantically_equivalent":"Yes","ordering":"No","id":2},"Suggestion 3":{"feedback":"both correct, the user res contains a change unrelated to the conflict","semantically_equivalent":"Yes","ordering":"No","id":3},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6073c9b1acb36e8a913c4a70"},{"_id":{"$oid":"607f5895b68ec24a6e4193af"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}},"2":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"correct","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6073cdc2acb36e8a913c4aa7"},{"_id":{"$oid":"607f58e8b68ec24a6e4193b0"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}},"2":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","external_context":"No","ordering":"No"}}},"userId":"anonymized","taskId":"6073cdd7acb36e8a913c4aa8"},{"_id":{"$oid":"607f592fb68ec24a6e4193b1"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"6073cdeaacb36e8a913c4aad"},{"_id":{"$oid":"607f5b1cb68ec24a6e4193b4"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"60744d146bfb1906a22460d3"},{"_id":{"$oid":"607f5d3ab68ec24a6e4193b5"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"equal to user res","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}},"2":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}},"3":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"equal to user res","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"60744d146bfb1906a22460d4"},{"_id":{"$oid":"607f5e0ab68ec24a6e4193b6"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"comments out a chunk of code","semantically_equivalent":"Yes","ordering":"No","id":2},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"commented out code","semantically_equivalent":"Yes","ordering":"No","id":2},"feedback":"anonymized for review"}},"3":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"commented out code","semantically_equivalent":"Yes","ordering":"No","id":2},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d567dd40b162ab311ec6"},{"_id":{"$oid":"607f5e77b68ec24a6e4193b7"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6075d57fdd40b162ab311ec8"},{"_id":{"$oid":"607f5ea9b68ec24a6e4193b8"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"same as user res","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d57fdd40b162ab311eca"},{"_id":{"$oid":"607f5f11b68ec24a6e4193b9"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"import statements consolidated to one line","semantically_equivalent":"Yes","ordering":"No","id":2},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 3":{"feedback":"consolidated import statements","semantically_equivalent":"Yes","ordering":"No","id":3},"feedback":"anonymized for review"}},"3":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6075d5badd40b162ab311ed8"},{"_id":{"$oid":"607f5fa5b68ec24a6e4193ba"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6075d5badd40b162ab311eda"},{"_id":{"$oid":"607f5fe5b68ec24a6e4193bb"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6075d5d0dd40b162ab311ede"},{"_id":{"$oid":"607f60f6b68ec24a6e4193bc"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"correct, removed type ","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"correct","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d5a9dd40b162ab311ed3"},{"_id":{"$oid":"607f61c6b68ec24a6e4193bd"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"same as user res","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d64fdd40b162ab311eed"},{"_id":{"$oid":"607f627fb68ec24a6e4193be"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"equal, user res just comments out dead code","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 3":{"feedback":"commented out code removed","semantically_equivalent":"Yes","ordering":"No","id":3},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d5badd40b162ab311edc"},{"_id":{"$oid":"607f6322b68ec24a6e4193bf"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"equal to user res","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"correct","semantically_equivalent":"Yes","ordering":"No","id":1},"Suggestion 2":{"feedback":"correct","semantically_equivalent":"Yes","ordering":"No","id":2},"Suggestion 3":{"feedback":"correct","semantically_equivalent":"Yes","ordering":"No","id":3},"feedback":"anonymized for review"}},"3":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"correct","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d663dd40b162ab311eef"},{"_id":{"$oid":"60807926cb748600360cbc7c"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 2":{"feedback":"Suggestion 2 removed the duplicates better than Suggestion 1 and 3. ","semantically_equivalent":"Yes","ordering":"No","id":2},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"607eff6c53bd702985ff97fd"},{"_id":{"$oid":"60807a69cb748600360cbc7d"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 3":{"feedback":"Choosing suggestion 3 as it very closely matches what I would have done manually to resolve the conflict. ","semantically_equivalent":"Yes","ordering":"Yes","id":3},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"607eff8353bd702985ff9801"},{"_id":{"$oid":"60807b65cb748600360cbc7e"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"Suggestion 1 closely matches what I would have done in this scenario. getSharedDatabase() method was renamed to getSharedCosmosDatabase() later after the merge conflicts were resolved. \nOrdering of getSharedDatabase() method doesn't matter in this case, so it can be either above or below the getSharedSinglePartitionCosmosContainer() method. ","semantically_equivalent":"Yes","ordering":"Yes","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"607eff9a53bd702985ff9804"},{"_id":{"$oid":"60832c258bb51d4980e508f6"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}},"2":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"6082f4e3888fc329d0a8de98"},{"_id":{"$oid":"60832c488bb51d4980e508f7"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}},"2":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6082f8f4888fc329d0a8dea0"},{"_id":{"$oid":"60832c5b8bb51d4980e508f8"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"6082fb57888fc329d0a8dea5"},{"_id":{"$oid":"60832ca78bb51d4980e508f9"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 3":{"feedback":"same as user res","semantically_equivalent":"Yes","ordering":"No","id":3},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"correct","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6082f4cb888fc329d0a8de91"},{"_id":{"$oid":"60832cc08bb51d4980e508fa"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"correct","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6082f4e3888fc329d0a8de97"},{"_id":{"$oid":"60832d0f8bb51d4980e508fb"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"same as user res","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}},"2":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"this suggestion is ideal, the user resolution misses the comment","semantically_equivalent":"Yes","ordering":"No","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6082f4e3888fc329d0a8de99"},{"_id":{"$oid":"60832d578bb51d4980e508fc"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}},"2":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"6082f50b888fc329d0a8de9d"},{"_id":{"$oid":"60832ddd8bb51d4980e508fd"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"607457216bfb1906a2246105"},{"_id":{"$oid":"60832e4a8bb51d4980e508fe"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6074572c6bfb1906a2246108"},{"_id":{"$oid":"608330c38bb51d4980e508ff"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"correct","semantically_equivalent":"No","ordering":"No","id":1},"feedback":"anonymized for review"}},"2":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"6075d5badd40b162ab311edb"},{"_id":{"$oid":"608330ec8bb51d4980e50900"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"same as user resolution","semantically_equivalent":"Yes","ordering":"Yes","id":1},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6075d5a9dd40b162ab311ed4"},{"_id":{"$oid":"6089279c4ce35b0036077977"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}},"2":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"Yes","external_context":"No"}}},"userId":"anonymized","taskId":"6075d567dd40b162ab311ec5"},{"_id":{"$oid":"608927bf4ce35b0036077978"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6075d58ddd40b162ab311ecc"},{"_id":{"$oid":"608927e44ce35b0036077979"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6075d5a9dd40b162ab311ed4"},{"_id":{"$oid":"6089281d4ce35b003607797a"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No"}},"2":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No"}}},"userId":"anonymized","taskId":"6075d5badd40b162ab311edb"},{"_id":{"$oid":"608bd1e6af6cad844a98def7"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"608975e19b21a42a387b3d66"},{"_id":{"$oid":"608bd221af6cad844a98def8"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"608975e19b21a42a387b3d68"},{"_id":{"$oid":"608bd259af6cad844a98def9"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"608975f79b21a42a387b3d6c"},{"_id":{"$oid":"608bd29aaf6cad844a98defa"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 3":{"feedback":"renamed variable name, no preference as to which one is better","semantically_equivalent":"Yes","ordering":"No","id":3},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"608975f79b21a42a387b3d71"},{"_id":{"$oid":"608bd373af6cad844a98defb"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"Yes"}}},"userId":"anonymized","taskId":"6089760c9b21a42a387b3d75"},{"_id":{"$oid":"608bd4f6af6cad844a98defc"},"responsesByConflictId":{"1":{"resolutionSuggestionResponse":{"Suggestion 3":{"feedback":"same as user res","semantically_equivalent":"Yes","ordering":"No","id":3},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"6089761e9b21a42a387b3d77"},{"_id":{"$oid":"608bda83af6cad844a98defd"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}},"2":{"resolutionSuggestionResponse":{"Suggestion 1":{"feedback":"re-ordered statements same as user res","semantically_equivalent":"Yes","ordering":"No","id":1},"Suggestion 2":{"feedback":"same as user res","semantically_equivalent":"Yes","ordering":"No","id":2},"feedback":"anonymized for review"}}},"userId":"anonymized","taskId":"608bd82a669b432c40dfd597"},{"_id":{"$oid":"608bdaf1af6cad844a98defe"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"608bd82a669b432c40dfd596"},{"_id":{"$oid":"608bdf6aaf6cad844a98deff"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6073cce6acb36e8a913c4a93"},{"_id":{"$oid":"608be341af6cad844a98df00"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6073ce0eacb36e8a913c4aae"},{"_id":{"$oid":"608be3e7af6cad844a98df01"},"responsesByConflictId":{"1":{"skipConflictResponse":{"reasons":["None of the resolutions suggestions are correct"],"feedback":"anonymized for review","ordering":"No","external_context":"No"}}},"userId":"anonymized","taskId":"6073cd04acb36e8a913c4a95"}]
+[
+  {
+    "_id": { "$oid": "6076ca778ed4bd00368d5397" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d58ddd40b162ab311ecb"
+  },
+  {
+    "_id": { "$oid": "6076cbb28ed4bd00368d5398" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 3": { "feedback": "anonymized for review", "id": 3 }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d58ddd40b162ab311ecc"
+  },
+  {
+    "_id": { "$oid": "6076cc738ed4bd00368d5399" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": { "feedback": "anonymized for review", "id": 2 }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5d0dd40b162ab311edf"
+  },
+  {
+    "_id": { "$oid": "6076ccda8ed4bd00368d539a" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": { "feedback": "anonymized for review", "id": 2 }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5d0dd40b162ab311ee0"
+  },
+  {
+    "_id": { "$oid": "6076cd7d8ed4bd00368d539b" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["I need help from a colleague"],
+          "feedback": "anonymized for review"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5d0dd40b162ab311ee1"
+  },
+  {
+    "_id": { "$oid": "6076cdfb8ed4bd00368d539c" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5e3dd40b162ab311ee2"
+  },
+  {
+    "_id": { "$oid": "6076cf1c8ed4bd00368d539d" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["Conflict is too complex"],
+          "feedback": "anonymized for review"
+        }
+      },
+      "2": {
+        "skipConflictResponse": {
+          "reasons": ["Conflict is too complex"],
+          "feedback": "anonymized for review"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d63add40b162ab311ee8"
+  },
+  {
+    "_id": { "$oid": "60781a4a336c530037eff70f" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "external_context": "No",
+          "ordering": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5d0dd40b162ab311edf"
+  },
+  {
+    "_id": { "$oid": "60781ad2336c530037eff710" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5d0dd40b162ab311edf"
+  },
+  {
+    "_id": { "$oid": "60781c32336c530037eff711" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d63add40b162ab311ee7"
+  },
+  {
+    "_id": { "$oid": "6078940cfef1210036166172" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "ordering": "No",
+            "semantically_equivalent": "Yes",
+            "id": 2
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d57fdd40b162ab311ec8"
+  },
+  {
+    "_id": { "$oid": "6078ac13fef1210036166173" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "60783df72eec3847c6f2e370"
+  },
+  {
+    "_id": { "$oid": "6078af1cfef1210036166174" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      },
+      "2": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607456a26bfb1906a22460f9"
+  },
+  {
+    "_id": { "$oid": "60793cbefef1210036166175" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 3": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 3
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5badd40b162ab311edc"
+  },
+  {
+    "_id": { "$oid": "60793d9efef1210036166176" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d68bdd40b162ab311ef7"
+  },
+  {
+    "_id": { "$oid": "60793d9efef1210036166177" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d68bdd40b162ab311ef7"
+  },
+  {
+    "_id": { "$oid": "60794128fef1210036166178" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 3": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 3
+          }
+        }
+      },
+      "3": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 2
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d663dd40b162ab311eef"
+  },
+  {
+    "_id": { "$oid": "6079be96fef1210036166179" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073c9b1acb36e8a913c4a6f"
+  },
+  {
+    "_id": { "$oid": "6079bf7bfef121003616617a" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073cce6acb36e8a913c4a92"
+  },
+  {
+    "_id": { "$oid": "6079c0f0fef121003616617b" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073cd63acb36e8a913c4a9d"
+  },
+  {
+    "_id": { "$oid": "6079d3b9b29cf40037798fc4" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073cd63acb36e8a913c4a9b"
+  },
+  {
+    "_id": { "$oid": "6079d478b29cf40037798fc5" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["Other"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073cd63acb36e8a913c4a9d"
+  },
+  {
+    "_id": { "$oid": "6079d541b29cf40037798fc6" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          },
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 2
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6079c6816e46eb5b1b2b47d5"
+  },
+  {
+    "_id": { "$oid": "607a04f9a1509a00366a74d9" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 1
+          },
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 2
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073e6b7550e7802a7ec86ea"
+  },
+  {
+    "_id": { "$oid": "607a05a5a1509a00366a74da" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          },
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073e708550e7802a7ec86f4"
+  },
+  {
+    "_id": { "$oid": "607a0677a1509a00366a74db" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "external_context": "Yes",
+          "ordering": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073e6f4550e7802a7ec86f0"
+  },
+  {
+    "_id": { "$oid": "607dc784871f960036c43f92" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607d72b293f2910b85d82aae"
+  },
+  {
+    "_id": { "$oid": "607dc823871f960036c43f93" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607d72c093f2910b85d82ab0"
+  },
+  {
+    "_id": { "$oid": "607dc90b871f960036c43f94" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607d72c093f2910b85d82ab2"
+  },
+  {
+    "_id": { "$oid": "607dc9a9871f960036c43f95" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["Conflict is too complex"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607d72cc93f2910b85d82ab3"
+  },
+  {
+    "_id": { "$oid": "607dcac1871f960036c43f96" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607d787d4941c107daa40871"
+  },
+  {
+    "_id": { "$oid": "607dce3b871f960036c43f97" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607d72c093f2910b85d82ab1"
+  },
+  {
+    "_id": { "$oid": "607dce76871f960036c43f98" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607d72c093f2910b85d82ab2"
+  },
+  {
+    "_id": { "$oid": "607dcf17871f960036c43f99" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607d72cc93f2910b85d82ab3"
+  },
+  {
+    "_id": { "$oid": "607dd00f871f960036c43f9a" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607d787d4941c107daa40871"
+  },
+  {
+    "_id": { "$oid": "607ddc6c871f960036c43f9b" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073e6e4550e7802a7ec86ee"
+  },
+  {
+    "_id": { "$oid": "607ddce2871f960036c43f9c" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073e6e4550e7802a7ec86ef"
+  },
+  {
+    "_id": { "$oid": "607dddb9871f960036c43f9d" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "60744d206bfb1906a22460d6"
+  },
+  {
+    "_id": { "$oid": "607ddf87871f960036c43f9e" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "60744d206bfb1906a22460d8"
+  },
+  {
+    "_id": { "$oid": "607f51e1b68ec24a6e4193aa" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          }
+        }
+      },
+      "2": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      },
+      "3": {
+        "skipConflictResponse": {
+          "reasons": ["Other"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      },
+      "4": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073e386550e7802a7ec86dd"
+  },
+  {
+    "_id": { "$oid": "607f5269b68ec24a6e4193ab" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 3": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 3
+          }
+        }
+      },
+      "3": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073e386550e7802a7ec86df"
+  },
+  {
+    "_id": { "$oid": "607f52afb68ec24a6e4193ac" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073e41b550e7802a7ec86e2"
+  },
+  {
+    "_id": { "$oid": "607f5664b68ec24a6e4193ad" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607d72b293f2910b85d82aad"
+  },
+  {
+    "_id": { "$oid": "607f5832b68ec24a6e4193ae" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "No",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          },
+          "Suggestion 3": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 3
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073c9b1acb36e8a913c4a70"
+  },
+  {
+    "_id": { "$oid": "607f5895b68ec24a6e4193af" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073cdc2acb36e8a913c4aa7"
+  },
+  {
+    "_id": { "$oid": "607f58e8b68ec24a6e4193b0" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      },
+      "2": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "external_context": "No",
+          "ordering": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073cdd7acb36e8a913c4aa8"
+  },
+  {
+    "_id": { "$oid": "607f592fb68ec24a6e4193b1" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073cdeaacb36e8a913c4aad"
+  },
+  {
+    "_id": { "$oid": "607f5b1cb68ec24a6e4193b4" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "60744d146bfb1906a22460d3"
+  },
+  {
+    "_id": { "$oid": "607f5d3ab68ec24a6e4193b5" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      },
+      "3": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "60744d146bfb1906a22460d4"
+  },
+  {
+    "_id": { "$oid": "607f5e0ab68ec24a6e4193b6" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          }
+        }
+      },
+      "3": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d567dd40b162ab311ec6"
+  },
+  {
+    "_id": { "$oid": "607f5e77b68ec24a6e4193b7" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d57fdd40b162ab311ec8"
+  },
+  {
+    "_id": { "$oid": "607f5ea9b68ec24a6e4193b8" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d57fdd40b162ab311eca"
+  },
+  {
+    "_id": { "$oid": "607f5f11b68ec24a6e4193b9" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 3": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 3
+          }
+        }
+      },
+      "3": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5badd40b162ab311ed8"
+  },
+  {
+    "_id": { "$oid": "607f5fa5b68ec24a6e4193ba" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5badd40b162ab311eda"
+  },
+  {
+    "_id": { "$oid": "607f5fe5b68ec24a6e4193bb" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5d0dd40b162ab311ede"
+  },
+  {
+    "_id": { "$oid": "607f60f6b68ec24a6e4193bc" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5a9dd40b162ab311ed3"
+  },
+  {
+    "_id": { "$oid": "607f61c6b68ec24a6e4193bd" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d64fdd40b162ab311eed"
+  },
+  {
+    "_id": { "$oid": "607f627fb68ec24a6e4193be" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 3": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 3
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5badd40b162ab311edc"
+  },
+  {
+    "_id": { "$oid": "607f6322b68ec24a6e4193bf" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          },
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          },
+          "Suggestion 3": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 3
+          }
+        }
+      },
+      "3": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d663dd40b162ab311eef"
+  },
+  {
+    "_id": { "$oid": "60807926cb748600360cbc7c" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607eff6c53bd702985ff97fd"
+  },
+  {
+    "_id": { "$oid": "60807a69cb748600360cbc7d" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 3": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 3
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607eff8353bd702985ff9801"
+  },
+  {
+    "_id": { "$oid": "60807b65cb748600360cbc7e" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607eff9a53bd702985ff9804"
+  },
+  {
+    "_id": { "$oid": "60832c258bb51d4980e508f6" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      },
+      "2": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6082f4e3888fc329d0a8de98"
+  },
+  {
+    "_id": { "$oid": "60832c488bb51d4980e508f7" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      },
+      "2": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6082f8f4888fc329d0a8dea0"
+  },
+  {
+    "_id": { "$oid": "60832c5b8bb51d4980e508f8" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6082fb57888fc329d0a8dea5"
+  },
+  {
+    "_id": { "$oid": "60832ca78bb51d4980e508f9" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 3": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 3
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6082f4cb888fc329d0a8de91"
+  },
+  {
+    "_id": { "$oid": "60832cc08bb51d4980e508fa" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6082f4e3888fc329d0a8de97"
+  },
+  {
+    "_id": { "$oid": "60832d0f8bb51d4980e508fb" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6082f4e3888fc329d0a8de99"
+  },
+  {
+    "_id": { "$oid": "60832d578bb51d4980e508fc" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      },
+      "2": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6082f50b888fc329d0a8de9d"
+  },
+  {
+    "_id": { "$oid": "60832ddd8bb51d4980e508fd" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "607457216bfb1906a2246105"
+  },
+  {
+    "_id": { "$oid": "60832e4a8bb51d4980e508fe" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6074572c6bfb1906a2246108"
+  },
+  {
+    "_id": { "$oid": "608330c38bb51d4980e508ff" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "No",
+            "ordering": "No",
+            "id": 1
+          }
+        }
+      },
+      "2": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5badd40b162ab311edb"
+  },
+  {
+    "_id": { "$oid": "608330ec8bb51d4980e50900" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "Yes",
+            "id": 1
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5a9dd40b162ab311ed4"
+  },
+  {
+    "_id": { "$oid": "6089279c4ce35b0036077977" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      },
+      "2": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "Yes",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d567dd40b162ab311ec5"
+  },
+  {
+    "_id": { "$oid": "608927bf4ce35b0036077978" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d58ddd40b162ab311ecc"
+  },
+  {
+    "_id": { "$oid": "608927e44ce35b0036077979" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5a9dd40b162ab311ed4"
+  },
+  {
+    "_id": { "$oid": "6089281d4ce35b003607797a" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No"
+        }
+      },
+      "2": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6075d5badd40b162ab311edb"
+  },
+  {
+    "_id": { "$oid": "608bd1e6af6cad844a98def7" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "608975e19b21a42a387b3d66"
+  },
+  {
+    "_id": { "$oid": "608bd221af6cad844a98def8" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "608975e19b21a42a387b3d68"
+  },
+  {
+    "_id": { "$oid": "608bd259af6cad844a98def9" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "608975f79b21a42a387b3d6c"
+  },
+  {
+    "_id": { "$oid": "608bd29aaf6cad844a98defa" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 3": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 3
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "608975f79b21a42a387b3d71"
+  },
+  {
+    "_id": { "$oid": "608bd373af6cad844a98defb" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "Yes"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6089760c9b21a42a387b3d75"
+  },
+  {
+    "_id": { "$oid": "608bd4f6af6cad844a98defc" },
+    "responsesByConflictId": {
+      "1": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 3": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 3
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6089761e9b21a42a387b3d77"
+  },
+  {
+    "_id": { "$oid": "608bda83af6cad844a98defd" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      },
+      "2": {
+        "resolutionSuggestionResponse": {
+          "Suggestion 1": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 1
+          },
+          "Suggestion 2": {
+            "feedback": "anonymized for review",
+            "semantically_equivalent": "Yes",
+            "ordering": "No",
+            "id": 2
+          }
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "608bd82a669b432c40dfd597"
+  },
+  {
+    "_id": { "$oid": "608bdaf1af6cad844a98defe" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "608bd82a669b432c40dfd596"
+  },
+  {
+    "_id": { "$oid": "608bdf6aaf6cad844a98deff" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073cce6acb36e8a913c4a93"
+  },
+  {
+    "_id": { "$oid": "608be341af6cad844a98df00" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073ce0eacb36e8a913c4aae"
+  },
+  {
+    "_id": { "$oid": "608be3e7af6cad844a98df01" },
+    "responsesByConflictId": {
+      "1": {
+        "skipConflictResponse": {
+          "reasons": ["None of the resolutions suggestions are correct"],
+          "feedback": "anonymized for review",
+          "ordering": "No",
+          "external_context": "No"
+        }
+      }
+    },
+    "userId": "anonymized",
+    "taskId": "6073cd04acb36e8a913c4a95"
+  }
+]
